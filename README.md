@@ -34,7 +34,7 @@ cd Multi-Linked-List_Sistem-Perpustakaan
 ```
 * Open Terminal and run the code with mentioned command below.
 ```bash
-merge_file.cpp
+merge_file
 ```
 
 ## Screenshots
