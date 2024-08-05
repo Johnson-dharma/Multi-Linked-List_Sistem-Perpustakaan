@@ -32,6 +32,10 @@ git clone https://github.com/Johnson-dharma/Multi-Linked-List_Sistem-Perpustakaa
 ```bash
 cd Multi-Linked-List_Sistem-Perpustakaan
 ```
+* Open Terminal and run the code with mentioned command below.
+```bash
+merge_file.cpp
+```
 
 ## Screenshots
 
