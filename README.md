@@ -11,6 +11,9 @@ Linked List Buku(child)
 - Tipe, bertipe string 
 - Kesediaan, bertipe integer 
 
+![Visualisasi Multi Linked List](https://github.com/user-attachments/assets/0cb466e2-9e83-4807-8c0f-fac23268336c)
+
+
 ## Features
 
 - Search visitor 
